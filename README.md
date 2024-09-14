@@ -6,43 +6,56 @@
   <title>Diya Sharma - Electronics & Communication Engineer</title>
   <style>
     body {
-      font-family: sans-serif;
-      margin: 0;
-      padding: 20px;
+  font-family: sans-serif;
+  margin: 0;
+  padding: 20px;
+  background-color: #f0f0f0;
     }
 
-    h1, h2, h3 {
-      margin: 10px 0;
-    }
+h1 {
+  font-size: 24px;
+  font-weight: bold;
+}
 
-    .contact {
-      text-align: right;
-      margin-bottom: 20px;
-    }
+h2 {
+  font-size: 18px;
+  font-weight: bold;
+}
 
-    .section {
-      margin-bottom: 20px;
-    }
+h3 {
+  font-size: 16px;
+  font-weight: bold;
+}
 
-    .skill-list {
-      list-style: none;
-      padding: 0;
-      margin: 0;
-    }
+.contact {
+  text-align: right;
+  margin-bottom: 20px;
+}
 
-    .skill-list li {
-      display: inline-block;
-      margin-right: 10px;
-    }
+.section {
+  margin-bottom: 20px;
+}
 
-    .project-list li {
-      margin-bottom: 10px;
-    }
+.skill-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
 
-    .project-link {
-      color: #007bff;
-      text-decoration: none;
-    }
+.skill-list li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.project-list li {
+  margin-bottom: 10px;
+}
+
+.project-link {
+  color: #007bff;
+  text-decoration: none;
+}
+
   </style>
 </head>
 <body>
@@ -51,14 +64,14 @@
     <h1>Diya Sharma</h1>
     <h2>Electronics & Communication Engineer</h2>
     <p>
-      <a href="mailto:rinkussharma1980.com">10maydiyassss@gmail.com</a>
+      <a href="mailto:10maydiyassss@gmail.com">10maydiyassss@gmail.com</a>Shimla, H.P.
     </p>
   </header>
 
   <section class="section">
     <h2>Summary</h2>
     <p>
-      With a strong foundation in programming, PCB designing, and a keen interest in VLSI design, I'm eager to find a position where I can utilize my skills and knowledge. I'm a quick learner, a dedicated worker, and committed to continuous learning and professional development. I'm excited to apply my theoretical knowledge to real-world projects and collaborate with experienced professionals.
+       With a strong foundation in programming, PCB designing, and a keen interest in VLSI design, I'm eager to find a position where I can utilize my skills and knowledge. I'm a quick learner, a dedicated worker, and committed to continuous learning and professional development. I'm excited to apply my theoretical knowledge to real-world projects and collaborate with experienced professionals.
     </p>
   </section>
 
@@ -109,4 +122,32 @@
     <ul class="project-list">
       <li>
         <a href="#" class="project-link">Counter With Overload Alert Alarm for Child Safety in 40-Seater Bus (2024)</a>
-        <p>Designed to
+        <p>Designed to prevent bus overloading, the system detects and signals overloading situations. Developed and tested using Arduino IDE and breadboard circuitry.</p>
+      </li>
+      <li>
+        <a href="#" class="project-link">ESP32 Design using Eagle (2023)</a>
+        <p>Created schematic diagrams and PCB layouts, ensuring proper functionality and connectivity.</p>
+      </li>
+      <li>
+        <a href="#" class="project-link">YouTube Clone (2024)</a>
+        <p>Developed a YouTube clone project using HTML, CSS, and JavaScript.</p>
+      </li>
+    </ul>
+  </section>
+
+  <section class="section">
+    <h2>Workshops Attended</h2>
+    <ul class="project-list">
+      <li>
+        <a href="#" class="project-link">Workshop on VLSI Design, JUIT, Department of ECE, Waknaghat (2024)</a>
+        <p>Attended a workshop covering topics such as Verilog programming, FPGA implementation, Xilinx Vivado and Cadence Virtuoso tools.</p>
+      </li>
+      <li>
+        <a href="#" class="project-link">PCB Designing, JNGEC, Department of ECE (2023)</a>
+        <p>Attended a workshop on PCB design using Proteus.</p>
+      </li>
+    </ul>
+  </section>
+
+</body>
+</html>
