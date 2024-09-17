@@ -49,7 +49,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diy4rt&show_icons=true&locale=en" alt="diy4rt" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diy4rt&" alt="diy4rt" /></p>
+
 
 
 <!--END_SECTION:waka-->
